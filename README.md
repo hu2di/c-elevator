@@ -5,4 +5,4 @@ Elevator simulation by C
 Created by HuyHung Dinh<br>
 GitHub: https://github.com/hu2di<br>
 Email: hebitaxy@gmail.com<br>
-Donation: [**Donate**](https://www.paypal.me/hungdh)
+Donate: [**PayPal**](https://www.paypal.me/hungdh)
