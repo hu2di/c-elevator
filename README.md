@@ -2,7 +2,7 @@
 Elevator simulation by C
 
 ### About
-Created by HuyHung Dinh<br>
-GitHub: https://github.com/hu2di<br>
-Email: hebitaxy@gmail.com<br>
-Donate: [**PayPal**](https://www.paypal.me/hungdh)
+- Created by HuyHung Dinh
+- GitHub: https://github.com/hu2di
+- Email: hebitaxy@gmail.com
+- Donate: [**PayPal**](https://www.paypal.me/hungdh)
